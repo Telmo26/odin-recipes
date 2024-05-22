@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: red;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+
+h3 {
+    text-align: left;
+    color: darkred;
+    text-decoration-line: underline;
+}
+
+h5 {
+    text-align: left;
+    color: darkgreen;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: auto;
+}
+
+ol,
+ul {
+    text-align: center;
+}
+
+li {
+    font-size: large;
+    font-family: 'Arial', Arial, sans-serif;
+}
+
+.ingredients li {
+    text-align: left;
+    font-size: small;
+}
+
+.steps li {
+    text-align: left;
+    font-size: medium;
+}
